@@ -1094,3 +1094,7 @@ a.btn:focus{
 .social-link:hover {
   color: #D24E1D;
 }
+
+#social-link-span {
+  margin: 0px 20px;
+}
