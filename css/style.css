@@ -1071,33 +1071,12 @@ a.btn:focus{
 
 .project-overlay a {
   display: block;
-  /*font-size: 25px;*/
   margin: 10px;
 }
 
 .project-overlay a:hover {
   color: white;
 }
-/*#socialyze-overlay {
-  background-color: rgb(0, 131, 183);
-  color: white;
-}
-
-#lets-ride-overlay {
-  background-color: black;
-  color: white;
-}
-
-#four-legged-fiends-overlay {
-  background-color: gray;
-  color: black;
-  border: 1px solid black;
-}
-
-#three-t-overlay {
-  background-color: rgb(76, 77, 79);
-  color: white;
-}*/
 
 .overlay-title {
   font-size: 24px;
