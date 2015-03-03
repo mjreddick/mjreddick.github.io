@@ -1098,3 +1098,12 @@ a.btn:focus{
 #social-link-span {
   margin: 0px 20px;
 }
+
+#headshot {
+  height: 250px;
+  width: 250px;
+  background-image: url("../img/headshot.jpg");
+  border-radius: 50%;
+  margin: 10px auto;
+  border: 2px solid #D24E1D;
+}
