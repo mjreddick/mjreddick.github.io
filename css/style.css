@@ -985,9 +985,7 @@ a.btn:focus{
 		margin: 0 0 0 30px;
 		float:none;
 	}
-	.navbar-custom ul.nav li a {
-		color: #eee;
-	}
+
 	.navbar-custom ul.nav ul.dropdown-menu li {
 		border-bottom: 1px solid #aaa;
 
@@ -1004,10 +1002,6 @@ a.btn:focus{
 		padding: 4px 15px;
 		font-size: 14px;
 		color: #fff;
-	}
-	
-	.navbar-custom .nav {
-		background: #444;
 	}
 	
 	.service-box {
