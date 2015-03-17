@@ -1102,3 +1102,8 @@ a.btn:focus{
   margin: 10px auto;
   border: 2px solid #D24E1D;
 }
+
+#resume-link {
+  display: inline-block;
+  margin-top: 10px;
+}
